@@ -1,2 +1,2 @@
-# project10homepage
-Project 10 Homepage
+# vmarkiiproject10homepage.github.io
+Homepage of project10.vmarkii.com
